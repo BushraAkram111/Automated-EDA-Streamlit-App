@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from ydata_profiling import ProfileReport
 import base64
-!pip install ydata-profiling
 
 def main():
     """
