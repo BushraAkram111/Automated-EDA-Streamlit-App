@@ -1,1 +1,5 @@
-pip install ydata-profiling
+streamlit
+pandas
+numpy 
+matplotlib
+seaborn 
