@@ -1,12 +1,11 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
-#import matplotlib
 
 # Set title and name
 st.title("Data Analysis and Visualization App")
-st.sidebar.markdown("<h3 style='color:red;'>Bushra Akram</h3>", unsafe_allow_html=True)
+st.sidebar.markdown("<h3 style='color:red;'>Shakeela Riaz</h3>", unsafe_allow_html=True)
 
 # Upload file
 uploaded_file = st.file_uploader("Choose a CSV or Excel file", type=["csv", "xlsx"])
