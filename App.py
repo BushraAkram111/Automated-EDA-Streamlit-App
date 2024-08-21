@@ -4,8 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set title and name
-st.title("Data Visualization App")
-st.image("https://diggrowth.com/wp-content/uploads/2024/02/AI-Data-Visualization-Tool_-Improve-Your-Insights-1.png")
+st.title("Data Analysis and Visualization App")
 st.sidebar.markdown("<h3 style='color:red;'>Shakeela Riaz</h3>", unsafe_allow_html=True)
 
 # Upload file
