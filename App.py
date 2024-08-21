@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib
-matplotlib.use('Agg')
+
 # Set title and name
 st.title("Data Analysis and Visualization App")
 st.sidebar.markdown("<h3 style='color:red;'>Bushra Akram</h3>", unsafe_allow_html=True)
