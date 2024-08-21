@@ -82,5 +82,3 @@ if uploaded_file is not None:
         plt.figure(figsize=(10, 6))
         sns.relplot(data=df, x=x_column, y=y_column, height=6, aspect=1.5)
         st.pyplot(plt)
-    else:
-        st.write("The uploaded file is either empty or could not be processed.")
