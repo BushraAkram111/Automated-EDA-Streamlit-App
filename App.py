@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-#import numpy as np
+import numpy as np
 
 # Set up the app title and image
 st.title("Comprehensive Data Visualization and Analysis App")
