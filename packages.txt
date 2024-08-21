@@ -1,3 +1,5 @@
-python3-pip
-python3-dev
-build-essential
+streamlit==1.36.0
+pandas==2.0.3
+matplotlib==3.9.1
+seaborn==0.12.2
+numpy==1.24.2
