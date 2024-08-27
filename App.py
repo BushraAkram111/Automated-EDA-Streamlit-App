@@ -6,7 +6,6 @@ import seaborn as sns
 # App title
 st.title("Comprehensive Data Visualization and Analysis App")
 
-# Upload file
 uploaded_file = st.file_uploader("Choose a CSV or Excel file", type=["csv", "xlsx"])
 
 if uploaded_file is not None:
