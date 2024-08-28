@@ -1,5 +1,4 @@
-!pip uninstall pandas
-!pip install pandas
+
 
 import streamlit as st
 import pandas as pd
