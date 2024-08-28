@@ -1,6 +1,5 @@
 streamlit==1.36.0
-pandas==2.0.3
+pandas==1.5.3  # You can try with 2.0.3 if needed
 numpy==1.24.2
-
 matplotlib==3.9.1
 seaborn==0.12.2
