@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set title and name
-st.title("Data Analysis and Visualization App")
+st.title("Enhanced Data Visualization and Analysis App")
 
 # Upload file
 uploaded_file = st.file_uploader("Choose a CSV or Excel file", type=["csv", "xlsx"])
