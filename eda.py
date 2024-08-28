@@ -7,7 +7,7 @@ import seaborn as sns
 st.title("Enhanced Data Visualization and Analysis App")
 
 # Upload file
-uploaded_file = st.file_uploader("Choose a CSV or Excel file", type=["csv", "xlsx"])
+uploaded_file = st.file_uploader("Choose a CSV or Excel file", type=["csv"])
 
 if uploaded_file is not None:
     # Check file type
